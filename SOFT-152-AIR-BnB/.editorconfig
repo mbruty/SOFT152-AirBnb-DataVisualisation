@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0069: Disposable fields should be disposed
+dotnet_diagnostic.IDE0069.severity = none
