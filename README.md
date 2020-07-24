@@ -1,4 +1,7 @@
+
 # Air BnB Data visualisation
+
+### Results: Top in year - 95%
 ### The task:
  - Using the provided data, read the data in using a proper datastructure. 
 The user needs to be able to search, update, create new and delete a property / neighbourhood / district.
@@ -15,5 +18,15 @@ The user needs to be able to search, update, create new and delete a property / 
 
 - (Update 5 months after submission) : Now that I have learnt asyncronus C#, I realised that alot of the processes were ran on the main thread, locking-up the UI. If I were to do this again, I would have used Tasks as to not lock the main thread and make the program feel much more responsive
 
+- The graphs would have been easier to read if the width was adjusted so that more could have been seen on one panel, possibly having another window to view it better?
+
+- The graphs could've been user-sortable i.e. high => low 
+
+- Graph sorting by distance would've also been nice, but WAY out of the specification
+
+- Tooltips when mousing over graph to show the value of the item you've moused over
+
  ## The final solution
+ 
+ ![application image](https://i.imgur.com/uuvDW4e.jpg)
  
